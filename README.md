@@ -9,3 +9,5 @@ To run it you'll need go installed on your computer. Download or clone this repo
 ```sh
 go run main.go
 ```
+
+![an image of the output from running this programme.](https://user-images.githubusercontent.com/4499581/51079073-b8b25800-16b8-11e9-8e0a-b0c151e151ff.jpg)
